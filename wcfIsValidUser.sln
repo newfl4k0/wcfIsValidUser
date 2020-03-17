@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcfIsValidUser", "wcfIsValidUser\wcfIsValidUser.csproj", "{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|x86.ActiveCfg = Debug|x86
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|x86.Build.0 = Debug|x86
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Debug|x86.Deploy.0 = Debug|x86
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Release|x86.ActiveCfg = Release|x86
+		{7B52DBAA-5AE8-4D19-8FD6-DE0BB13511CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://fl4k0.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = wcfIsValidUser\\wcfIsValidUser.csproj
+		SccProjectName1 = wcfIsValidUser
+		SccLocalPath1 = wcfIsValidUser
+	EndGlobalSection
+EndGlobal
